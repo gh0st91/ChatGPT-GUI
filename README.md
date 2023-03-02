@@ -3,7 +3,7 @@
 ## Notice
 This repository is in no way associated with OpenAI.
 OpenAI holds all the rights to the tools and APIs used in this repository.
-This repository is a fork of curcic's (https://github.com/curcic/GUI-GPT-3 "GUI-GPT-3"). A special thanks to them!
+This repository is a fork of curcic's GUI-GPT-3 (https://github.com/curcic/GUI-GPT-3). A special thanks to them!
 
 ------------
 
@@ -33,7 +33,6 @@ A GUI window will appear where you can type in messages and receive responses fr
 
 ## References
 Icons downloaded from [uxwing.com](https://uxwing.com "uxwing.com")
-Original repository from [curcic] (https://github.com/curcic/GUI-GPT-3 "GUI-GPT-3")
 
 ## License
 This project is licensed under the GPL-3.0 License - see the LICENSE file for details.
