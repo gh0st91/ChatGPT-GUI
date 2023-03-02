@@ -25,7 +25,7 @@ This is a simple GUI chatbot built in Python using PyQt5 and OpenAI's ChatGPT AP
 ## Usage
 - To run the chatbot, execute the following command:
 
-	`python main.py`
+	`python3 main.py`
 
 - Paste the OpenAI API key that you generated earlier
 
