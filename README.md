@@ -16,6 +16,10 @@ This is a simple GUI chatbot built in Python using PyQt5 and OpenAI's ChatGPT AP
 
 - Extract and run exe!
 
+- Get your OpenAI API key:
+	
+	https://platform.openai.com/account/api-keys
+
 ## Linux Installation
 - Clone the repository:
 
